@@ -1,4 +1,4 @@
-# Discord bot made by Fnr#0017
+
 
 # If you want your bot support slash commands check this [Repo](https://github.com/FnrDev/slash-commands)
 
