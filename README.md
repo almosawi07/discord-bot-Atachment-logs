@@ -1,6 +1,5 @@
 
 
-# If you want your bot support slash commands check this [Repo](https://github.com/FnrDev/slash-commands)
 
 - get started
 
