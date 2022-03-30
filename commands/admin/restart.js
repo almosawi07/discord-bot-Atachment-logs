@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const Fnr = '751224380247244871'
+const RKV = '751224380247244871'
 
 module.exports = {
     name: "restart",
